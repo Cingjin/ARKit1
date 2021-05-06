@@ -5,6 +5,8 @@
 //  Created by Anmo on 2021/5/6.
 //
 
+// 参考：https://www.jianshu.com/p/396a0d1c16f9
+
 import UIKit
 import SceneKit
 import ARKit
